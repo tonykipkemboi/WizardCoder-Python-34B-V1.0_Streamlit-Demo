@@ -19,7 +19,7 @@ This Streamlit app is a nifty interface for the WizardCoder 34B model, which is 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repo/WizardCoder-Python-34B-V1.0.git
+   git clone https://github.com/tonykipkemboi/WizardCoder-Python-34B-V1.0_Streamlit-Demo.git
    ```
 
 2. Navigate to the project directory and install required packages:
